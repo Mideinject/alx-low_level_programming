@@ -1,13 +1,16 @@
-1 #include <studio.h>
-2 
-3 /**
+1#!/bin/bash
+
+3 #include <studio.h>
+4 
+5 /**
     * main - Entry point
     * 
     * input: prints "Programming is like building a multilingual puzzle,"
     *
     * Return: Alaways 0 (Success)
     */
-4 int main(void)
-5 {
+6 int main(void)
+7 {
 	puts("\n"Programming is like building a multilingual puzzle,");
-6 return (0);
+	return (0);
+8 }
